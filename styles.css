@@ -7,6 +7,8 @@
 #card title{
     background-color: red;
     margin: 10px;
+    margin-left: 10px;
+    
 }
 
 .container.card-group{
